@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.smrht/muziekmakenmetai",
+  "title": "Muziek maken met AI",
+  "description": "Make an original song from a prompt or your own lyrics. Two versions per song, MP3 download.",
+  "version": "1.1.0",
+  "websiteUrl": "https://muziekmakenmetai.nl/",
+  "repository": {
+    "url": "https://github.com/smrht/muziekmakenmetai-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/smrht/muziekmakenmetai-mcp/main/logo-400.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://muziekmakenmetai.nl/mcp"
+    }
+  ]
+}
