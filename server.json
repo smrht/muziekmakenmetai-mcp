@@ -3,7 +3,7 @@
   "name": "io.github.smrht/muziekmakenmetai",
   "title": "Muziek maken met AI",
   "description": "Make an original song from a prompt or your own lyrics. Two versions per song, MP3 download.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://muziekmakenmetai.nl/",
   "repository": {
     "url": "https://github.com/smrht/muziekmakenmetai-mcp",
